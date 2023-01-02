@@ -1,2 +1,2 @@
-# fz-infrared
+# flipperzero-infrared
 WIP
